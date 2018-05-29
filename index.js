@@ -10,6 +10,6 @@ function BoardMember (name, homestate, training){
       return "You can do that!"
   }
   this.doCharity = function(){
-      return "You will see great things from Scuber."
+      return "I like to help people"
   }
 }
